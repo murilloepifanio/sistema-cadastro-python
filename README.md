@@ -116,13 +116,13 @@ Tenha o Python instalado no computador.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/murilloepifanio/sistema-cadastro-python.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd sistema-cadastro-python
 ```
 
 Execute:
