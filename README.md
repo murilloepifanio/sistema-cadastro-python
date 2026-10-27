@@ -153,6 +153,6 @@ Algumas funcionalidades que podem ser adicionadas futuramente:
 
 ## Autor
 
-**Murillo Epifânio de Almeida**
+**Murillo Epifânio Rodrigues de Almeida**
 
 Projeto desenvolvido para fins de estudo e prática de programação em Python.
